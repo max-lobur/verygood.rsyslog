@@ -1,7 +1,7 @@
 verygood.rsyslog
 =========
 
-Installs rsyslog
+Installs rsyslog. Please do not archive it. Repo is still in use!
 
 Role Variables
 --------------
